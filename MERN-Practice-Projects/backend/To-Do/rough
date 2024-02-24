@@ -1,0 +1,5 @@
+/* Explore APIs ---
+1) Home/ Get all tasks - GET /
+2) Editing - PATCH /task/:taskId
+3) Deletion DELETE /task/:taskId
+4) Insertion - POST /task/new  */
